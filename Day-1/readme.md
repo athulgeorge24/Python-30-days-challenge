@@ -1,6 +1,6 @@
 Task 1
 
-# Day 0: Print Function #1
+# Day 1: Print Function #1
 ## *Task*: Use the print function to write code.
 
 *Description*:
