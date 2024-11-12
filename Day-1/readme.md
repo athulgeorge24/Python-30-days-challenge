@@ -1,4 +1,3 @@
-
 Day 1
 
 # Task 1: Print Function #1
