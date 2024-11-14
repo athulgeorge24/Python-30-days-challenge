@@ -1,7 +1,7 @@
-"""char_1=input("enter a sentence:")
+char_1=input("enter a sentence:")
 word=input("enter a word to check:")
-print("Is",word,"in the sentence",word in char_1)"""
+print("Is",word,"in the sentence",word in char_1)
 
-"""a=input("enter a name:")
+a=input("enter a name:")
 b=input("enter a letter:")
-print("wheather",b,"in the name:",b not in a)"""
+print("wheather",b,"in the name:",b not in a)
