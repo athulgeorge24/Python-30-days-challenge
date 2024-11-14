@@ -1,4 +1,4 @@
-Day 1
+Day 1 (12/11/24)
 
 # Task 1: Print Function 
 ## *Task*: Use the print function to write code.
