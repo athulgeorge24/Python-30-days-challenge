@@ -1,4 +1,4 @@
-Day-2
+Day-2 (13/11/24)
 
 # Task 1: Basic Arithmetic Operations
 ## Task: Perform simple arithmetic operations.
