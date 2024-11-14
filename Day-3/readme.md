@@ -1,4 +1,4 @@
-Day-3
+Day-3 (14/11/24)
 
 # Task 1: Membership Operators
 ## Task: Use membership operators to check if a value is present in a sequence.
