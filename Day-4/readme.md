@@ -1,5 +1,7 @@
 Day 4 (15/111/24)
 
+## NB:Write program with every fuctions...save is as a single python file
+
 # Task :Understand and use the math module in Python
 
 ## Discription
