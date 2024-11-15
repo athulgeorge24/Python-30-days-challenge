@@ -1,4 +1,4 @@
-Day 4 (15/111/24)
+Day 4 (15/11/24)
 
 ## NB:Write program with every fuctions...save is as a single python file
 
