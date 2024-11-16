@@ -29,37 +29,37 @@ length = len(string)
 a) `lower()` – Converts all characters to lowercase.
 ```python
 #syntax
-​​lower = s.lower(string)
+​​lower = string.lower()
 ```
 
 b) `upper()` – Converts all characters to uppercase.
 ```python
 #syntax
-upper = s.upper(string)
+upper = string.upper()
 ```
 c) `title()` – Converts the first character of each word to uppercase.
 ```python
 #syntax
-title = s.title(string)
+title = string.title()
 ```
 
 d) `swapcase()` – Swaps uppercase characters to lowercase and vice versa.
 ```python
 #syntax
-swap = s.swapcase(string)
+swap = string.swapcase()
 ```
 
 e) `capitalize()` – Capitalizes the first character of the string.
 ```python
 #syntax
-capital = s.capitalize(string)
+capital = string.capitalize()
 ```
 
 ### 3.String Trimming `strip()`
 Removes leading and trailing whitespace.
 ```python
 #syntax
-strip = s.strip(string) 
+strip = string.strip() 
 ```
 
 ### 4.String Replacement `replace()`
