@@ -1,7 +1,7 @@
 Day-3 (14/11/24)
 
-# Task 1: Membership Operators
-## Task: Use membership operators to check if a value is present in a sequence.
+ #**Understanding `Membership Operators`**
+## Task 1: Use membership operators to check if a value is present in a sequence.
 
 Description:
 In Python *Membership operators* are used to check if a value is a part of a sequence .Here we use two membership operators:
@@ -31,8 +31,8 @@ Is the letter in the word? True
 
 
 
-# Task 2: Identity Operators
-## Task: Use *identity operators* to check if two variables refer to the same object in memory.
+# **Understanding `Identity Operators`**
+## Task 2: Use *identity operators* to check if two variables refer to the same object in memory.
 
 Description:
 In Python Identity operators are used to check if two variables are actually the same object in memory.Here we have two identity operators:
