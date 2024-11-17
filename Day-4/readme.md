@@ -1,6 +1,6 @@
 Day 4 (15/11/24)
 
-# **Understand the `math` module in Python**
+# **Understanding the `math` module in Python**
 
 ## Task: Learn to use math module in Python
 
