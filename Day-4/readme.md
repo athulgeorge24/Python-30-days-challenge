@@ -1,13 +1,15 @@
 Day 4 (15/11/24)
 
-## NB:Write program with every fuctions...save is as a single python file
+# **Understand the `math` module in Python**
 
-# Task :Understand and use the math module in Python
+## Task: Learn to use math module in Python
 
 ## Discription
 The Python `math` module provides access to a wide range of mathematical functions, constants, and tools that are commonly used in numerical computations It includes functions for trigonometry, logarithms, square roots, and other advanced mathematical operations
 
-## NB:Value should be take from the user input
+### NB:Write program with every fuctions...save is as a single python file
+### NB:Value should be take from the user input
+
 To use the `math` module, you need to import it first using:
 ```python
 import math
