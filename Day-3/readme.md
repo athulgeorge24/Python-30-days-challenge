@@ -1,6 +1,6 @@
 Day-3 (14/11/24)
 
- #**Understanding `Membership Operators`**
+ # **Understanding `Membership Operators`**
 ## Task 1: Use membership operators to check if a value is present in a sequence.
 
 Description:
