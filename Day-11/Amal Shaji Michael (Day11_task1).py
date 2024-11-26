@@ -7,17 +7,20 @@ while True:
     print("4.\tExit")
     choice=int(input("Enter your choice: "))
     if choice==1:
-        print(food_list)
+        for food in food_list:
+            print(food)
     elif choice==2:
         add=input("Enter a food to add: ")
         food_list.append(add)
         print("Updated List: ")
-        print(f"\n{food_list}")
+        for food in food_list:
+            print(food)
     elif choice==3:
         rem=input("Enter a food to remove: ")
         food_list.remove(rem)
         print("Updated List: ")
-        print(f"\n{food_list}")
+        for food in food_list:
+            print(food)
     elif choice==4:
         print("Thank You!")
         break
